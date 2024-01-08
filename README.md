@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascript*
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mr.shaikh118@gmail.com**
 
