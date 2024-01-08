@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad saad</h1>
-<h3 align="center">A passionate Business Data Analyst from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lala1680&label=Profile%20views&color=0e75b6&style=flat" alt="lala1680" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Power BI, Microsoft Excel**
+- 💬 Ask me about **Javascript*
 
 - 📫 How to reach me **mr.shaikh118@gmail.com**
 
